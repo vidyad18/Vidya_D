@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+Expert;DevOps+%7C+Docker+%7C+CI%2FCD+Pipelines;AI+Projects+with+CNN+%26+RNN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring%7C+React+%7C+MySQL+Expert;AI+Projects+with+CNN+%26+RNN" alt="Typing SVG" />
 </p>
 
 ---
