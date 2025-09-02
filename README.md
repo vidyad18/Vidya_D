@@ -76,7 +76,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/suhas-s-r-71795b250](https://www.linkedin.com/in/suhas-s-r-71795b250)  
+- 🔗 LinkedIn: [linkedin.com/in/vidya-d-358542365](https://www.linkedin.com/in/vidya-d-358542365)  
 - 💻 GitHub: [github.com/vidyad18](https://github.com/vidyad18)  
 - 📬 Email: [vidyavk1311@gmail.com](mailto:vidyavk1311@gmail.com)  
 
